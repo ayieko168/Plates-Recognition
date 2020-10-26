@@ -1,1 +1,1 @@
-"# Plates-Recognition" 
+# Plates Recognition Application (Python)
